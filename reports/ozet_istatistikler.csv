@@ -1,0 +1,5 @@
+,title_length,title_length,title_length,title_length,title_length,text_length,text_length,text_length,text_length,word_count,word_count,word_count,word_count
+,count,mean,std,min,max,mean,std,min,max,mean,std,min,max
+type,,,,,,,,,,,,,
+Gerçek,21417,64.67,9.17,26,133,2383.28,1684.84,1,29781,385.64,274.01,0,5172
+Sahte,23481,94.2,27.18,8,286,2547.4,2532.88,1,51794,423.2,408.39,0,8135
