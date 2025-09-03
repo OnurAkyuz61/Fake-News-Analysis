@@ -150,7 +150,7 @@ Proje sonunda şunları elde edeceksiniz:
 
 ```bash
 # Projeyi klonlayın
-git clone <repository-url>
+git clone https://github.com/OnurAkyuz61/Fake-News-Analysis
 cd fake-or-real-news-analysis
 
 # Gereksinimleri yükleyin
